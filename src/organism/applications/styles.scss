@@ -1,0 +1,21 @@
+.header{
+    font-size: 24px;
+    font-weight:900;
+    margin: 30px;
+
+}
+
+.cardWrap{
+    display:flex;
+    flex-wrap: wrap;
+    margin: 65px;
+    align-content: flex-start;
+}
+
+.details_container{
+    margin:30px 60px;
+    width:90%;
+    height:500px;
+    overflow:scroll;
+    font-size: 12px;
+}
